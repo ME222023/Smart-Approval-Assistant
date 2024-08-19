@@ -1,0 +1,34 @@
+version: '3.0'
+services:
+  postgres:
+    image: postgres:latest
+    container_name: weichat-postgres
+    ports:
+      - "0.0.0.0:10056:5432"
+    environment:
+      - TZ=Asia/Shanghai
+      - LANG=en_US.UTF-8
+      - POSTGRES_PASSWORD=123456
+    volumes:
+      - ./postgre_data:/var/lib/postgresql/data
+  weichat:
+    image: wei_chat:v2
+    container_name: weichat
+    extra_hosts:
+      - "wxw-sit.axzq.com.cn:10.5.31.18"
+      - "llm-oneapi-dev.axzq.com.cn:10.5.52.212"
+    ports:
+      - "0.0.0.0:10051:10051"
+    working_dir: /usr/src/app
+    volumes:
+      - ./:/usr/src/app/
+    command: python3 web_api.py
+    depends_on:
+      - postgres
+    environment:
+      - PORT=10051
+      - WORKERS=2
+      - AUTHORIZATION=sk-abJaPLBq6Flzmss2F42b03041b6b475891D5EfCb2a84Ab96
+      - TZ=Asia/Shanghai
+      - LANG=en_US.UTF-8
+    tty: true

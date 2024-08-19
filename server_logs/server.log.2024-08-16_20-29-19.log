@@ -1,0 +1,625 @@
+2024-08-14 16:29:32 | main_v1.py | <module> | 15 | ERROR - llllll
+2024-08-14 16:36:18 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 35 | INFO - 从Redis中获取到的所有键
+2024-08-14 16:36:18 | main_v1.py | <module> | 16 | INFO - lalal
+2024-08-14 16:36:28 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 35 | INFO - 从Redis中获取到的所有键
+2024-08-14 16:36:28 | main_v1.py | <module> | 16 | DEBUG - lalal
+2024-08-14 17:12:25 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 36 | INFO - 从Redis中获取到的所有键
+2024-08-14 17:12:27 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 36 | INFO - 从Redis中获取到的所有键
+2024-08-14 17:12:27 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 36 | INFO - 从Redis中获取到的所有键
+2024-08-14 17:12:27 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:27 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:28 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:28 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:29 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:29 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:30 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:30 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:31 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:31 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:32 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:32 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:33 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:33 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:34 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:34 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:35 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:35 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:36 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:36 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:37 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:37 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:38 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:38 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:39 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:39 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:40 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:40 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:41 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:41 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:42 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:12:42 | main_v1.py | <module> | 21 | DEBUG - 从Redis中获取到的所有键: [b'waitt_10039094', b'waitt_10037288', b'waitt_10039092', b'waitt_10039093', b'waitt_10038560']
+2024-08-14 17:13:24 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 36 | INFO - 从Redis中获取到的所有键
+2024-08-14 17:13:26 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 36 | INFO - 从Redis中获取到的所有键
+2024-08-14 17:13:26 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 36 | INFO - 从Redis中获取到的所有键
+2024-08-14 17:13:42 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 36 | INFO - 从Redis中获取到的所有键
+2024-08-14 17:13:44 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 36 | INFO - 从Redis中获取到的所有键
+2024-08-14 17:13:44 | /home/hezp1/AI/app_weichat/utils/log_handle.py | server_log | 36 | INFO - 从Redis中获取到的所有键
+2024-08-14 17:14:27 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:14:27 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:14:27 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 136 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:14:27 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 136 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:14:27 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 139 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037289
+2024-08-14 17:14:27 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 139 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037289
+2024-08-14 17:14:34 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 141 | INFO - -------> getData: {"tasks_id":["10037289"]}
+2024-08-14 17:14:34 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 141 | INFO - -------> getData: {"tasks_id":["10037289"]}
+2024-08-14 17:14:34 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 254 | DEBUG - ---------------
+2024-08-14 17:14:34 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 254 | DEBUG - ---------------
+2024-08-14 17:14:34 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 104 | DEBUG - Checking ID: 10037289
+2024-08-14 17:14:34 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 104 | DEBUG - Checking ID: 10037289
+2024-08-14 17:14:38 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 277 | ERROR - Unexpected error: Expecting value: line 1 column 1 (char 0)
+2024-08-14 17:14:38 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 277 | ERROR - Unexpected error: Expecting value: line 1 column 1 (char 0)
+2024-08-14 17:15:55 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:15:55 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 136 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:15:55 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 139 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037289
+2024-08-14 17:16:02 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 141 | INFO - -------> getData: {"tasks_id":["10037289"]}
+2024-08-14 17:16:02 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 254 | DEBUG - ---------------
+2024-08-14 17:16:02 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 104 | DEBUG - Checking ID: 10037289
+2024-08-14 17:16:02 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 277 | ERROR - Unexpected error: exceptions must derive from BaseException
+2024-08-14 17:18:56 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:18:56 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:18:56 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 140 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037289
+2024-08-14 17:19:02 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 142 | INFO - -------> getData: {"tasks_id":["10037289"]}
+2024-08-14 17:19:02 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 255 | DEBUG - ---------------
+2024-08-14 17:19:02 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 104 | DEBUG - Checking ID: 10037289
+2024-08-14 17:19:02 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 278 | ERROR - Unexpected error: exceptions must derive from BaseException
+2024-08-14 17:26:47 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:26:47 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:26:47 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 140 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037289
+2024-08-14 17:26:53 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 142 | INFO - -------> getData: {"tasks_id":["10037289"]}
+2024-08-14 17:26:53 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 255 | DEBUG - ---------------
+2024-08-14 17:26:53 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 104 | DEBUG - Checking ID: 10037289
+2024-08-14 17:26:53 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 278 | ERROR - Unexpected error: 登陆失败
+2024-08-14 17:33:46 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:33:46 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 139 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:33:46 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 142 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037289
+2024-08-14 17:33:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 144 | INFO - -------> getData: {"tasks_id":["10037289"]}
+2024-08-14 17:33:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 257 | DEBUG - ---------------
+2024-08-14 17:33:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 106 | DEBUG - Checking ID: 10037289
+2024-08-14 17:33:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 108 | DEBUG - Task info combine: <function combine at 0x7f4537101158>
+2024-08-14 17:33:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | returnMsg | 59 | DEBUG - Processing task_id: 10037289 with messages: [None, None]
+2024-08-14 17:33:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | returnMsg | 69 | INFO - Task 10037289 passed the check.
+2024-08-14 17:33:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 283 | ERROR - Unexpected error: cannot unpack non-iterable NoneType object
+2024-08-14 17:38:45 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:38:45 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 139 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:38:45 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 142 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037289
+2024-08-14 17:38:51 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 144 | INFO - -------> getData: {"tasks_id":["10037289"]}
+2024-08-14 17:38:51 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 257 | DEBUG - ---------------
+2024-08-14 17:38:51 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 106 | DEBUG - Checking ID: 10037289
+2024-08-14 17:38:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 108 | DEBUG - Task info combine: <function combine at 0x7f0c557121e0>
+2024-08-14 17:38:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | returnMsg | 59 | DEBUG - Processing task_id: 10037289 with messages: [None, None]
+2024-08-14 17:38:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | returnMsg | 69 | INFO - Task 10037289 passed the check.
+2024-08-14 17:38:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 125 | DEBUG - combined_ad: ['任务10037289已通过规则检测，请进行审批。'], combined_msgs: ['任务10037289通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-14 17:38:52 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 283 | ERROR - Unexpected error: cannot unpack non-iterable NoneType object
+2024-08-14 17:39:28 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:39:28 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 139 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:39:28 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 142 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037289
+2024-08-14 17:39:34 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 144 | INFO - -------> getData: {"tasks_id":["10037289"]}
+2024-08-14 17:39:34 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 257 | DEBUG - ---------------
+2024-08-14 17:39:34 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 106 | DEBUG - Checking ID: 10037289
+2024-08-14 17:39:35 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 108 | DEBUG - Task info combine: <function combine at 0x7f25ea65d1e0>
+2024-08-14 17:39:35 | /home/hezp1/AI/app_weichat/chat_server_v1.py | returnMsg | 59 | DEBUG - Processing task_id: 10037289 with messages: [None, None]
+2024-08-14 17:39:35 | /home/hezp1/AI/app_weichat/chat_server_v1.py | returnMsg | 69 | INFO - Task 10037289 passed the check.
+2024-08-14 17:39:35 | /home/hezp1/AI/app_weichat/chat_server_v1.py | checkId | 125 | DEBUG - combined_ad: ['任务10037289已通过规则检测，请进行审批。'], combined_msgs: ['任务10037289通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-14 17:39:35 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 259 | DEBUG - combined_msgs: ['任务10037289通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: 任务10037289已通过规则检测，请进行审批。
+2024-08-14 17:41:16 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:41:16 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 139 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-14 17:41:16 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 142 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 审批所有的任务
+2024-08-14 17:41:22 | /home/hezp1/AI/app_weichat/chat_server_v1.py | getData | 144 | INFO - -------> getData: {"tasks_id":[]}
+2024-08-14 17:41:22 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 257 | DEBUG - ---------------
+2024-08-14 17:41:22 | /home/hezp1/AI/app_weichat/chat_server_v1.py | regular | 259 | DEBUG - combined_msgs: ['没有提取到任务ID。\n请检查是否输入了任务ID。'], combined_ad: None
+2024-08-15 14:10:45 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-15 14:10:45 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-15 14:10:45 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 147 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 你好
+2024-08-15 14:10:53 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 149 | INFO - -------> getData: 您好，小智在此为您服务！为了更快地处理您的调度审批请求，请您提供任务编号，以便我们迅速定位到具体任务。任务编号是由数字组成的，请您核对后告诉我。如果您不确定如何查找任务编号，也可以描述一下任务的详细情况，我会尽量帮助您。请告诉我任务编号是多少呢？
+2024-08-15 14:10:53 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 271 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-15 14:11:04 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-15 14:11:04 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-15 14:11:04 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 147 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 请帮我审批12342
+2024-08-15 14:11:09 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 149 | INFO - -------> getData: {"tasks_id":["12342"]}
+2024-08-15 14:11:09 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 263 | DEBUG - ---------------
+2024-08-15 14:11:09 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 110 | DEBUG - Checking ID: 12342
+2024-08-15 14:11:09 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 112 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7fce6967f840>
+2024-08-15 14:11:09 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 115 | ERROR - ValueError for task ID 12342
+2024-08-15 14:11:09 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 61 | DEBUG - Processing task_id: 12342 with messages: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-15 14:11:09 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 90 | WARNING - Task 12342 has issues: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-15 14:11:09 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 129 | DEBUG - combined_ad: [], combined_msgs: ['任务12342存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-15 14:11:09 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 265 | DEBUG - combined_msgs: ['任务12342存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: None
+2024-08-15 14:11:26 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-15 14:11:26 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-15 14:11:26 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 147 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 请帮我审批10039095-10039097
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 149 | INFO - -------> getData: {"tasks_id":["10039095", "10039096", "10039097"]}
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 263 | DEBUG - ---------------
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 110 | DEBUG - Checking ID: 10039095
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 112 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7fce6967f840>
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 61 | DEBUG - Processing task_id: 10039095 with messages: [None, None]
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 72 | INFO - Task 10039095 passed the check.
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 110 | DEBUG - Checking ID: 10039096
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 112 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7fce6967f840>
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 61 | DEBUG - Processing task_id: 10039096 with messages: [None, None]
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 72 | INFO - Task 10039096 passed the check.
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 110 | DEBUG - Checking ID: 10039097
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 112 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7fce6967f840>
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 115 | ERROR - ValueError for task ID 10039097
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 61 | DEBUG - Processing task_id: 10039097 with messages: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 90 | WARNING - Task 10039097 has issues: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 129 | DEBUG - combined_ad: ['任务10039095已通过规则检测，请进行审批。', '任务10039096已通过规则检测，请进行审批。'], combined_msgs: ['任务10039095通过规则检测，已通知管理员进行审批。', '任务10039096通过规则检测，已通知管理员进行审批。', '任务10039097存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-15 14:11:33 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 265 | DEBUG - combined_msgs: ['任务10039095通过规则检测，已通知管理员进行审批。', '任务10039096通过规则检测，已通知管理员进行审批。', '任务10039097存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: 任务10039095已通过规则检测，请进行审批。
+
+任务10039096已通过规则检测，请进行审批。
+2024-08-15 14:16:20 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-15 14:16:20 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-15 14:16:20 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 147 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10039095-10039097
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 149 | INFO - -------> getData: {"tasks_id":["10039095", "10039096", "10039097"]}
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 263 | DEBUG - ---------------
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 110 | DEBUG - Checking ID: 10039095
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 112 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7fba0a5038c8>
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 61 | DEBUG - Processing task_id: 10039095 with messages: [None, None]
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 110 | DEBUG - Checking ID: 10039096
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 112 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7fba0a5038c8>
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 61 | DEBUG - Processing task_id: 10039096 with messages: [None, None]
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 110 | DEBUG - Checking ID: 10039097
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 112 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7fba0a5038c8>
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 115 | ERROR - ValueError for task ID 10039097
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 61 | DEBUG - Processing task_id: 10039097 with messages: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 90 | WARNING - Task 10039097 has issues: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 129 | DEBUG - combined_ad: [], combined_msgs: ['任务10039095已经通知管理员进行审批，无需重复申请。', '任务10039096已经通知管理员进行审批，无需重复申请。', '任务10039097存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-15 14:16:27 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 265 | DEBUG - combined_msgs: ['任务10039095已经通知管理员进行审批，无需重复申请。', '任务10039096已经通知管理员进行审批，无需重复申请。', '任务10039097存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: None
+2024-08-15 14:16:56 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-15 14:16:56 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-15 14:16:56 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 147 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037409
+2024-08-15 14:17:02 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 149 | INFO - -------> getData: {"tasks_id":["10037409"]}
+2024-08-15 14:17:02 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 263 | DEBUG - ---------------
+2024-08-15 14:17:02 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 110 | DEBUG - Checking ID: 10037409
+2024-08-15 14:17:02 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 112 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7fba0a5038c8>
+2024-08-15 14:17:02 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 61 | DEBUG - Processing task_id: 10037409 with messages: [None, None]
+2024-08-15 14:17:02 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 72 | INFO - Task 10037409 passed the check.
+2024-08-15 14:17:02 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 129 | DEBUG - combined_ad: ['任务10037409已通过规则检测，请进行审批。'], combined_msgs: ['任务10037409通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-15 14:17:02 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 265 | DEBUG - combined_msgs: ['任务10037409通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: 任务10037409已通过规则检测，请进行审批。
+2024-08-15 14:18:00 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 14:18:47 | main_v1.py | <module> | 29 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 14:27:38 | main_v1.py | <module> | 28 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 14:27:38 | main_v1.py | <module> | 28 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 14:27:38 | main_v1.py | <module> | 28 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 14:27:38 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 342 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 你好
+2024-08-15 14:27:38 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 342 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 你好
+2024-08-15 14:27:38 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 342 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 你好
+2024-08-15 14:27:47 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 394 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-15 14:27:47 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 394 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-15 14:27:47 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 394 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-15 14:37:35 | main_v1.py | <module> | 28 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 14:37:35 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 342 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 你好
+2024-08-15 14:37:45 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 394 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-15 14:38:08 | main_v1.py | <module> | 28 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 14:38:08 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 342 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 10037409审批通过
+2024-08-15 14:38:20 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 394 | ERROR - JSON decode error: Expecting ',' delimiter: line 4 column 1 (char 51)
+2024-08-15 15:10:26 | main_v1.py | <module> | 28 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 15:10:26 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 342 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 10037409审批通过
+2024-08-15 15:10:37 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 354 | DEBUG - 解析消息结果: tasks_id=['10037409'], category=accept
+2024-08-15 15:10:37 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 177 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 请求审批任务: ['10037409'], 审批状态: 通过
+2024-08-15 15:10:37 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 212 | DEBUG - 任务 10037409 关联的用户ID: ['16bd52abceae57867cfaa7e4bb9adab4']
+2024-08-15 15:10:37 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 219 | INFO - 任务 10037409 已审批通过。
+2024-08-15 15:10:37 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 247 | DEBUG - 生成输出，用户任务状态: {'16bd52abceae57867cfaa7e4bb9adab4': {'10037409': '通过'}}
+2024-08-15 15:10:37 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 380 | INFO - 管理员 1730846d950e0a5709ac2ea44138df09 批准通过任务: ['10037409']
+2024-08-15 15:11:01 | main_v1.py | <module> | 28 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 15:11:01 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 342 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 查看任务10037409
+2024-08-15 15:11:12 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 354 | DEBUG - 解析消息结果: tasks_id=['10037409'], category=view
+2024-08-15 15:11:12 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 77 | DEBUG - 检查任务信息，任务ID: 10037409
+2024-08-15 15:11:12 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 93 | INFO - 任务ID 10037409 不是待审批任务。
+2024-08-15 15:11:30 | main_v1.py | <module> | 28 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 15:11:30 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 342 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 查看任务
+2024-08-15 15:11:39 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 354 | DEBUG - 解析消息结果: tasks_id=[], category=view
+2024-08-15 15:11:39 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 109 | DEBUG - 检查前 3 个待审批任务信息
+2024-08-15 15:11:39 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 77 | DEBUG - 检查任务信息，任务ID: 10039094
+2024-08-15 15:11:39 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 93 | INFO - 任务ID 10039094 不是待审批任务。
+2024-08-15 15:11:39 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 77 | DEBUG - 检查任务信息，任务ID: 10037288
+2024-08-15 15:11:39 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 96 | INFO - 任务信息: 开发者: op_leidy
+任务ID: 10037288
+任务类型: 53
+任务名称: dwd_pty_check_impala_cnt_3_1705475684894
+2024-08-15 15:11:39 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 77 | DEBUG - 检查任务信息，任务ID: 10039093
+2024-08-15 15:11:40 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 93 | INFO - 任务ID 10039093 不是待审批任务。
+2024-08-15 15:11:40 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 126 | INFO - 显示了待审批队列中前 3 个任务的信息。
+2024-08-15 15:14:12 | main_v1.py | <module> | 28 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 15:14:12 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 343 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 查看任务
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 355 | DEBUG - 解析消息结果: tasks_id=[], category=view
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 109 | DEBUG - 检查前 3 个待审批任务信息
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 113 | DEBUG - tasks_id=['10039094', '10037288', '10039093', '10039092', '10038560', '10039095', '10039096']
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 77 | DEBUG - 检查任务信息，任务ID: 10039094
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 93 | INFO - 任务ID 10039094 不是待审批任务。
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 77 | DEBUG - 检查任务信息，任务ID: 10037288
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 96 | INFO - 任务信息: 开发者: op_leidy
+任务ID: 10037288
+任务类型: 53
+任务名称: dwd_pty_check_impala_cnt_3_1705475684894
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 77 | DEBUG - 检查任务信息，任务ID: 10039093
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 93 | INFO - 任务ID 10039093 不是待审批任务。
+2024-08-15 15:14:21 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 127 | INFO - 显示了待审批队列中前 3 个任务的信息。
+2024-08-15 16:28:50 | main_v1.py | <module> | 35 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-15 16:28:50 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 349 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: hi
+2024-08-15 16:29:01 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 401 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-15 16:29:51 | main_v1.py | <module> | 35 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-15 16:29:51 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 149 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-15 16:29:51 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 153 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 你好
+2024-08-15 16:29:59 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 155 | INFO - -------> getData: 您好，小智在此为您服务！为了更快地处理您的调度审批请求，请您提供任务编号，以便我们迅速定位到具体任务。任务编号是由数字组成的，请您核对后告诉我。如果您不确定如何查找任务编号，也可以描述一下任务的详细情况，我会尽量帮助您。请告诉我任务编号是多少呢？
+2024-08-15 16:29:59 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 277 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-16 10:57:58 | main_v1.py | main | 47 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 10:57:58 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 10:57:58 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037409
+2024-08-16 10:58:05 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10037409"]}
+2024-08-16 10:58:05 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 10:58:05 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10037409
+2024-08-16 10:58:05 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 284 | ERROR - Unexpected error: No connection adapters were found for '"http://dispatcher.k8stest.axzq.com.cn"/api/v1/task-approval/approval/waiting'
+2024-08-16 10:59:02 | main_v1.py | main | 47 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 10:59:02 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 10:59:02 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037409
+2024-08-16 10:59:09 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10037409"]}
+2024-08-16 10:59:09 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 10:59:09 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10037409
+2024-08-16 10:59:09 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 280 | ERROR - LoginException: 登陆失败，请重新授权！！！
+2024-08-16 11:05:15 | main_v1.py | main | 44 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:05:15 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:05:15 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037409
+2024-08-16 11:05:21 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10037409"]}
+2024-08-16 11:05:21 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 11:05:21 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10037409
+2024-08-16 11:05:21 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 280 | ERROR - LoginException: 登陆失败，请重新授权！！！
+2024-08-16 11:05:42 | main_v1.py | main | 44 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:05:42 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:05:42 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 你好
+2024-08-16 11:05:50 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: 您好，小智在此为您服务！为了更快地处理您的调度审批请求，请您提供任务编号，以便我们迅速定位到具体任务。任务编号是由数字组成的，请您核对后告诉我。如果您不确定如何查找任务编号，也可以描述一下任务的详细情况，我会尽量帮助您。请告诉我任务编号是多少呢？
+2024-08-16 11:05:50 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 265 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-16 11:06:28 | main_v1.py | main | 44 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:06:28 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:06:28 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批任务10039095
+2024-08-16 11:06:35 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10039095"]}
+2024-08-16 11:06:35 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 11:06:35 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10039095
+2024-08-16 11:06:35 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 280 | ERROR - LoginException: 登陆失败，请重新授权！！！
+2024-08-16 11:09:58 | main_v1.py | main | 44 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:09:58 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:09:58 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批任务10039095
+2024-08-16 11:10:05 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10039095"]}
+2024-08-16 11:10:05 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 11:10:05 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10039095
+2024-08-16 11:10:05 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f8c2f6092f0>
+2024-08-16 11:10:05 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 10039095 with messages: [None, None]
+2024-08-16 11:10:05 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: [], combined_msgs: ['任务10039095已经通知管理员进行审批，无需重复申请。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 11:10:05 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务10039095已经通知管理员进行审批，无需重复申请。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: None
+2024-08-16 11:10:24 | main_v1.py | main | 44 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:10:24 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:10:24 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批10037409
+2024-08-16 11:10:30 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10037409"]}
+2024-08-16 11:10:30 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 11:10:30 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10037409
+2024-08-16 11:10:30 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f8c2f6092f0>
+2024-08-16 11:10:30 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 109 | ERROR - ValueError for task ID 10037409
+2024-08-16 11:10:30 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 10037409 with messages: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-16 11:10:30 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 84 | WARNING - Task 10037409 has issues: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-16 11:10:30 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: [], combined_msgs: ['任务10037409存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 11:10:30 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务10037409存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: None
+2024-08-16 11:10:51 | main_v1.py | main | 44 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:10:51 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 11:10:51 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 审批10037258
+2024-08-16 11:10:57 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10037258"]}
+2024-08-16 11:10:57 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 11:10:57 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10037258
+2024-08-16 11:10:57 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f8c2f6092f0>
+2024-08-16 11:10:57 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 10037258 with messages: [None, None]
+2024-08-16 11:10:57 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 66 | INFO - Task 10037258 passed the check.
+2024-08-16 11:10:57 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: ['任务10037258已通过规则检测，请进行审批。'], combined_msgs: ['任务10037258通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 11:10:57 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务10037258通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: 任务10037258已通过规则检测，请进行审批。
+2024-08-16 11:11:50 | main_v1.py | main | 44 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 11:11:50 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 337 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 你好
+2024-08-16 11:12:00 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 389 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-16 11:12:18 | main_v1.py | main | 44 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 11:12:18 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 337 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看任务10037409
+2024-08-16 11:12:29 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 349 | DEBUG - 解析消息结果: tasks_id=['10037409'], category=view
+2024-08-16 11:12:29 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 71 | DEBUG - 检查任务信息，任务ID: 10037409
+2024-08-16 11:12:29 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 87 | INFO - 任务ID 10037409 不是待审批任务。
+2024-08-16 11:12:42 | main_v1.py | main | 44 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 11:12:42 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 337 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看任务
+2024-08-16 11:12:51 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 349 | DEBUG - 解析消息结果: tasks_id=[], category=view
+2024-08-16 11:12:51 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 103 | DEBUG - 检查前 3 个待审批任务信息
+2024-08-16 11:12:51 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 107 | DEBUG - tasks_id=['10039094', '10037288', '10039093', '10039092', '10038560', '10039095', '10037258', '10039096']
+2024-08-16 11:12:51 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 71 | DEBUG - 检查任务信息，任务ID: 10039094
+2024-08-16 11:12:51 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 87 | INFO - 任务ID 10039094 不是待审批任务。
+2024-08-16 11:12:51 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 71 | DEBUG - 检查任务信息，任务ID: 10037288
+2024-08-16 11:12:51 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 90 | INFO - 任务信息: 开发者: op_leidy
+任务ID: 10037288
+任务类型: 53
+任务名称: dwd_pty_check_impala_cnt_3_1705475684894
+2024-08-16 11:12:51 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 71 | DEBUG - 检查任务信息，任务ID: 10039093
+2024-08-16 11:12:52 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 87 | INFO - 任务ID 10039093 不是待审批任务。
+2024-08-16 11:12:52 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 121 | INFO - 显示了待审批队列中前 3 个任务的信息。
+2024-08-16 11:13:02 | main_v1.py | main | 44 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 11:13:02 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 337 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看任务10037258
+2024-08-16 11:13:13 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 349 | DEBUG - 解析消息结果: tasks_id=['10037258'], category=view
+2024-08-16 11:13:13 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 71 | DEBUG - 检查任务信息，任务ID: 10037258
+2024-08-16 11:13:13 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 90 | INFO - 任务信息: 开发者: huangfei
+任务ID: 10037258
+任务类型: 121
+任务名称: 研发管理PMS项目角色同步UAT
+2024-08-16 11:13:17 | main_v1.py | main | 44 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 11:13:17 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 337 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 审批通过任务10037258
+2024-08-16 11:13:28 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 349 | DEBUG - 解析消息结果: tasks_id=['10037258'], category=accept
+2024-08-16 11:13:28 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 172 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 请求审批任务: ['10037258'], 审批状态: 通过
+2024-08-16 11:13:28 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 207 | DEBUG - 任务 10037258 关联的用户ID: ['16bd52abceae57867cfaa7e4bb9adab4']
+2024-08-16 11:13:29 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 214 | INFO - 任务 10037258 已审批通过。
+2024-08-16 11:13:29 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 242 | DEBUG - 生成输出，用户任务状态: {'16bd52abceae57867cfaa7e4bb9adab4': {'10037258': '通过'}}
+2024-08-16 11:13:29 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 375 | INFO - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 批准通过任务: ['10037258']
+2024-08-16 11:14:15 | main_v1.py | main | 44 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 11:14:15 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 337 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 通过
+2024-08-16 11:14:25 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 389 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-16 11:20:15 | main_v1.py | main | 44 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 11:20:15 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 340 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 审批通过任务10037258
+2024-08-16 11:20:26 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 352 | DEBUG - 解析消息结果: tasks_id=['10037258'], category=accept
+2024-08-16 11:20:26 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 172 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 请求审批任务: ['10037258'], 审批状态: 通过
+2024-08-16 11:20:26 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 189 | WARNING - 任务 10037258 不存在，管理员 17a755177f4ad1f1d99bf8042cfbb74a 输入错误。
+2024-08-16 11:20:27 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 242 | DEBUG - 生成输出，用户任务状态: {}
+2024-08-16 11:20:27 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 378 | INFO - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 批准通过任务: ['10037258']
+2024-08-16 13:05:36 | main_v1.py | main | 44 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 13:05:36 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 13:05:36 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 请审批任务10037257
+2024-08-16 13:05:42 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10037257"]}
+2024-08-16 13:05:42 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 13:05:42 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10037257
+2024-08-16 13:05:43 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f6bc3db2268>
+2024-08-16 13:05:43 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 10037257 with messages: [None, None]
+2024-08-16 13:05:43 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 66 | INFO - Task 10037257 passed the check.
+2024-08-16 13:05:43 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: ['任务10037257已通过规则检测，请进行审批。'], combined_msgs: ['任务10037257通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 13:05:43 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务10037257通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: 任务10037257已通过规则检测，请进行审批。
+2024-08-16 13:09:10 | main_v1.py | main | 44 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 13:09:10 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 341 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 审批通过任务10037257
+2024-08-16 13:09:21 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 353 | DEBUG - 解析消息结果: tasks_id=['10037257'], category=accept
+2024-08-16 13:09:21 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 172 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 请求审批任务: ['10037257'], 审批状态: 通过
+2024-08-16 13:09:22 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 207 | DEBUG - 任务 10037257 关联的用户ID: ['17369c736ab9e12dd4c5fb94e338ff78']
+2024-08-16 13:09:22 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 215 | INFO - 任务 10037257 已审批通过。
+2024-08-16 13:09:22 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 243 | DEBUG - 生成输出，用户任务状态: {'17369c736ab9e12dd4c5fb94e338ff78': {'10037257': '通过'}}
+2024-08-16 13:09:22 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 246 | DEBUG - cus_id: 17369c736ab9e12dd4c5fb94e338ff78, tasks: {'10037257': '通过'}
+2024-08-16 13:09:22 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 248 | DEBUG - task_id: 10037257, state: 通过
+2024-08-16 13:09:22 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 250 | DEBUG - 任务10037257已审批通过，请注意查看。
+2024-08-16 13:09:22 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 379 | INFO - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 批准通过任务: ['10037257']
+2024-08-16 13:55:33 | main_v1.py | main | 44 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-16 13:55:33 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 338 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 请帮我审批任务10036808和10032011
+2024-08-16 13:55:45 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 350 | DEBUG - 解析消息结果: tasks_id=['10036808', '10032011'], category=accept
+2024-08-16 13:55:45 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 172 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 请求审批任务: ['10036808', '10032011'], 审批状态: 通过
+2024-08-16 13:55:45 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 189 | WARNING - 任务 10036808 不存在，管理员 1730846d950e0a5709ac2ea44138df09 输入错误。
+2024-08-16 13:55:45 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 243 | DEBUG - 生成输出，用户任务状态: {}
+2024-08-16 13:55:45 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 376 | INFO - 管理员 1730846d950e0a5709ac2ea44138df09 批准通过任务: ['10036808', '10032011']
+2024-08-16 14:04:55 | main_v1.py | main | 44 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 14:04:55 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 14:04:55 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 你好
+2024-08-16 14:05:03 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: 您好，小智在此为您服务！为了更快地处理您的调度审批请求，请您提供任务编号，以便我们迅速定位到具体任务。任务编号是由数字组成的，请您核对后告诉我。如果您不确定如何查找任务编号，也可以描述一下任务的详细情况，我会尽量帮助您。请告诉我任务编号是多少呢？
+2024-08-16 14:05:03 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 265 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-16 14:13:40 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 14:13:40 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 14:13:40 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批任务10037085
+2024-08-16 14:13:47 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10037085"]}
+2024-08-16 14:13:47 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 14:13:47 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10037085
+2024-08-16 14:13:47 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7ff0250e82f0>
+2024-08-16 14:13:47 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 10037085 with messages: [None, '任务负责人至少2个。']
+2024-08-16 14:13:47 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 84 | WARNING - Task 10037085 has issues: ['任务负责人至少2个。']
+2024-08-16 14:13:47 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: [], combined_msgs: ['任务10037085存在的以下问题：\n1. 任务负责人至少2个。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 14:13:47 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务10037085存在的以下问题：\n1. 任务负责人至少2个。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: None
+2024-08-16 14:14:23 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 14:14:23 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 14:14:23 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请帮我审批任务10037085
+2024-08-16 14:14:30 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10037085"]}
+2024-08-16 14:14:30 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 14:14:30 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10037085
+2024-08-16 14:14:30 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f02522762f0>
+2024-08-16 14:14:30 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 10037085 with messages: [None, None]
+2024-08-16 14:14:30 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 66 | INFO - Task 10037085 passed the check.
+2024-08-16 14:14:30 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: ['任务10037085已通过规则检测，请进行审批。'], combined_msgs: ['任务10037085通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 14:14:30 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务10037085通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: 任务10037085已通过规则检测，请进行审批。
+2024-08-16 14:21:15 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_16bd52abceae57867cfaa7e4bb9adab4 对应的用户ID: 16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 14:21:15 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_16bd52abceae57867cfaa7e4bb9adab4
+2024-08-16 14:21:15 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_16bd52abceae57867cfaa7e4bb9adab4 said: 请审批任务10037288
+2024-08-16 14:21:22 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10037288"]}
+2024-08-16 14:21:22 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 14:21:22 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10037288
+2024-08-16 14:21:22 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f6972609268>
+2024-08-16 14:21:22 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 10037288 with messages: [None, None]
+2024-08-16 14:21:22 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: [], combined_msgs: ['任务10037288已经通知管理员进行审批，无需重复申请。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 14:21:22 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务10037288已经通知管理员进行审批，无需重复申请。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: None
+2024-08-16 14:26:55 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:26:55 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:26:55 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 请审批任务10031416
+2024-08-16 14:27:01 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10031416"]}
+2024-08-16 14:27:01 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 14:27:01 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10031416
+2024-08-16 14:27:01 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f6972609268>
+2024-08-16 14:27:01 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 10031416 with messages: [None, None]
+2024-08-16 14:27:01 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 66 | INFO - Task 10031416 passed the check.
+2024-08-16 14:27:01 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: ['任务10031416已通过规则检测，请进行审批。'], combined_msgs: ['任务10031416通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 14:27:01 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务10031416通过规则检测，已通知管理员进行审批。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: 任务10031416已通过规则检测，请进行审批。
+2024-08-16 14:28:22 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:28:22 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:28:22 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 请审批任务10031416
+2024-08-16 14:28:28 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["10031416"]}
+2024-08-16 14:28:28 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 14:28:28 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 10031416
+2024-08-16 14:28:28 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f6972609268>
+2024-08-16 14:28:28 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 10031416 with messages: [None, None]
+2024-08-16 14:28:28 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: [], combined_msgs: ['任务10031416已经通知管理员进行审批，无需重复申请。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 14:28:28 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务10031416已经通知管理员进行审批，无需重复申请。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: None
+2024-08-16 14:28:32 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:28:32 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:28:32 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 审批任务
+2024-08-16 14:28:39 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":[]}
+2024-08-16 14:28:39 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 14:28:39 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['没有提取到任务ID。\n请检查是否输入了任务ID。'], combined_ad: None
+2024-08-16 14:28:47 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:28:47 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:28:47 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 532532
+2024-08-16 14:28:53 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["532532"]}
+2024-08-16 14:28:53 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 14:28:53 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 532532
+2024-08-16 14:28:53 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f6972609268>
+2024-08-16 14:28:53 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 109 | ERROR - ValueError for task ID 532532
+2024-08-16 14:28:53 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 532532 with messages: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-16 14:28:53 | /home/hezp1/AI/app_weichat/cus_interact.py | cusMsg | 84 | WARNING - Task 532532 has issues: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-16 14:28:53 | /home/hezp1/AI/app_weichat/cus_interact.py | checkId | 123 | DEBUG - combined_ad: [], combined_msgs: ['任务532532存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 14:28:53 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务532532存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: None
+2024-08-16 14:28:59 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:28:59 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:28:59 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 141 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 任务
+2024-08-16 14:29:07 | /home/hezp1/AI/app_weichat/cus_interact.py | getData | 143 | INFO - -------> getData: 您好，小智在此为您服务！为了更快地处理您的调度审批请求，请您提供任务编号，以便我们迅速定位到具体任务。任务编号是由数字组成的，请您核对后告诉我。如果您不确定如何查找任务编号，也可以描述一下任务的详细情况，我会尽量帮助您。请告诉我任务编号是多少呢？
+2024-08-16 14:29:07 | /home/hezp1/AI/app_weichat/cus_interact.py | cusInteract | 265 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-16 14:29:41 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 14:29:41 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 338 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看任务信息
+2024-08-16 14:29:52 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 350 | DEBUG - 解析消息结果: tasks_id=[], category=view
+2024-08-16 14:29:52 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 103 | DEBUG - 检查前 3 个待审批任务信息
+2024-08-16 14:29:52 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 107 | DEBUG - tasks_id=['10039094', '10031416', '10037288', '10037085', '10039093', '10039092', '10038560', '10039095', '10039096', '10037257']
+2024-08-16 14:29:52 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 71 | DEBUG - 检查任务信息，任务ID: 10039094
+2024-08-16 14:29:52 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 87 | INFO - 任务ID 10039094 不是待审批任务。
+2024-08-16 14:29:52 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 71 | DEBUG - 检查任务信息，任务ID: 10031416
+2024-08-16 14:29:52 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 90 | INFO - 任务信息: 开发者: lixh6
+任务ID: 10031416
+任务类型: 38
+任务名称: ifp.ACC_OTC_TA_ACCT登记账户-UAT_1697442481032
+2024-08-16 14:29:52 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 71 | DEBUG - 检查任务信息，任务ID: 10037288
+2024-08-16 14:29:53 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 90 | INFO - 任务信息: 开发者: op_leidy
+任务ID: 10037288
+任务类型: 53
+任务名称: dwd_pty_check_impala_cnt_3_1705475684894
+2024-08-16 14:29:53 | /home/hezp1/AI/app_weichat/admin_interact.py | viewTopk | 121 | INFO - 显示了待审批队列中前 3 个任务的信息。
+2024-08-16 14:30:47 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 14:30:47 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 338 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 审批通过任务10031416
+2024-08-16 14:30:58 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 350 | DEBUG - 解析消息结果: tasks_id=['10031416'], category=accept
+2024-08-16 14:30:58 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 172 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 请求审批任务: ['10031416'], 审批状态: 通过
+2024-08-16 14:30:58 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 207 | DEBUG - 任务 10031416 关联的用户ID: ['17369c736ab9e12dd4c5fb94e338ff78']
+2024-08-16 14:30:58 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 215 | INFO - 任务 10031416 已审批通过。
+2024-08-16 14:30:58 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 243 | DEBUG - 生成输出，用户任务状态: {'17369c736ab9e12dd4c5fb94e338ff78': {'10031416': '通过'}}
+2024-08-16 14:30:58 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 376 | INFO - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 批准通过任务: ['10031416']
+2024-08-16 14:31:02 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 14:31:02 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 338 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 审批通过任务10031416
+2024-08-16 14:31:13 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 350 | DEBUG - 解析消息结果: tasks_id=['10031416'], category=accept
+2024-08-16 14:31:13 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 172 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 请求审批任务: ['10031416'], 审批状态: 通过
+2024-08-16 14:31:13 | /home/hezp1/AI/app_weichat/admin_interact.py | pendApprovalList | 189 | WARNING - 任务 10031416 不存在，管理员 17a755177f4ad1f1d99bf8042cfbb74a 输入错误。
+2024-08-16 14:31:13 | /home/hezp1/AI/app_weichat/admin_interact.py | printAprroval | 243 | DEBUG - 生成输出，用户任务状态: {}
+2024-08-16 14:31:13 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 376 | INFO - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 批准通过任务: ['10031416']
+2024-08-16 14:31:37 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 14:31:37 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 338 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看任务10031416
+2024-08-16 14:31:48 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 350 | DEBUG - 解析消息结果: tasks_id=['10031416'], category=view
+2024-08-16 14:31:48 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 71 | DEBUG - 检查任务信息，任务ID: 10031416
+2024-08-16 14:31:48 | /home/hezp1/AI/app_weichat/admin_interact.py | viewInfo | 87 | INFO - 任务ID 10031416 不是待审批任务。
+2024-08-16 14:31:52 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 14:31:52 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 338 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 7389789782
+2024-08-16 14:32:02 | /home/hezp1/AI/app_weichat/admin_interact.py | adminInteract | 390 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-16 14:41:31 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 14:41:31 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 338 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 你好
+2024-08-16 14:41:40 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 390 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-16 14:41:47 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 14:41:47 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 338 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 审批通过任务10037288
+2024-08-16 14:41:57 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 350 | DEBUG - 解析消息结果: tasks_id=['10037288'], category=accept
+2024-08-16 14:41:57 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | pendApprovalList | 172 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 请求审批任务: ['10037288'], 审批状态: 通过
+2024-08-16 14:41:57 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | pendApprovalList | 207 | DEBUG - 任务 10037288 关联的用户ID: ['17369c736ab9e12dd4c5fb94e338ff78']
+2024-08-16 14:41:57 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | pendApprovalList | 215 | INFO - 任务 10037288 已审批通过。
+2024-08-16 14:41:58 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | printAprroval | 243 | DEBUG - 生成输出，用户任务状态: {'17369c736ab9e12dd4c5fb94e338ff78': {'10037288': '通过'}}
+2024-08-16 14:41:58 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 376 | INFO - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 批准通过任务: ['10037288']
+2024-08-16 14:43:18 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:43:18 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:43:18 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | getData | 141 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 你好
+2024-08-16 14:43:26 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | getData | 143 | INFO - -------> getData: 您好，小智在此为您服务！为了更快地处理您的调度审批请求，请您提供任务编号，以便我们迅速定位到具体任务。任务编号是由数字组成的，请您核对后告诉我。如果您不确定如何查找任务编号，也可以描述一下任务的详细情况，我会尽量帮助您。请告诉我任务编号是多少呢？
+2024-08-16 14:43:26 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | cusInteract | 265 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-16 14:43:28 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17369c736ab9e12dd4c5fb94e338ff78 对应的用户ID: 17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:43:28 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | getData | 137 | DEBUG - Processing key: msg_17369c736ab9e12dd4c5fb94e338ff78
+2024-08-16 14:43:28 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | getData | 141 | INFO - User msg_17369c736ab9e12dd4c5fb94e338ff78 said: 请审批任务呃89398
+2024-08-16 14:43:34 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | getData | 143 | INFO - -------> getData: {"tasks_id":["89398"]}
+2024-08-16 14:43:34 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | cusInteract | 257 | DEBUG - ---------------
+2024-08-16 14:43:34 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | checkId | 104 | DEBUG - Checking ID: 89398
+2024-08-16 14:43:34 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | checkId | 106 | DEBUG - Task info combine: <function getLatestTaskInfo at 0x7f3ef1ec7268>
+2024-08-16 14:43:34 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | checkId | 109 | ERROR - ValueError for task ID 89398
+2024-08-16 14:43:34 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | cusMsg | 55 | DEBUG - Processing task_id: 89398 with messages: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-16 14:43:34 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | cusMsg | 84 | WARNING - Task 89398 has issues: ['没有查询到相关的任务。\n请检查输入的任务ID是否正确。']
+2024-08-16 14:43:34 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | checkId | 123 | DEBUG - combined_ad: [], combined_msgs: ['任务89398存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n']
+2024-08-16 14:43:34 | /home/hezp1/AI/app_weichat/interact/cus_interact.py | cusInteract | 259 | DEBUG - combined_msgs: ['任务89398存在的以下问题：\n1. 没有查询到相关的任务。\n请检查输入的任务ID是否正确。', '请解决以上存在的问题后再做尝试。\n'], combined_ad: None
+2024-08-16 15:18:41 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 15:18:41 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 349 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看待审批用户列表
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 361 | DEBUG - 解析消息结果: tasks_id=[], category=view
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewTopk | 114 | DEBUG - 检查前 3 个待审批任务信息
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewTopk | 118 | DEBUG - tasks_id=['10039094', '10037085', '10039093', '10039092', '10038560', '10039095', '10039096', '10037257']
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 82 | DEBUG - 检查任务信息，任务ID: 10039094
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 98 | INFO - 任务ID 10039094 不是待审批任务。
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 82 | DEBUG - 检查任务信息，任务ID: 10037085
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 101 | INFO - 任务信息: 开发者: guoyf2
+任务ID: 10037085
+任务类型: 47
+任务名称: F_D_FA6_dti_repo_info_uat
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 82 | DEBUG - 检查任务信息，任务ID: 10039093
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 98 | INFO - 任务ID 10039093 不是待审批任务。
+2024-08-16 15:18:52 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewTopk | 132 | INFO - 显示了待审批队列中前 3 个任务的信息。
+2024-08-16 16:08:47 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 16:08:47 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 353 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 请查看chenyd287的所有任务
+2024-08-16 19:39:15 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:39:15 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看待审批用户列表
+2024-08-16 19:39:31 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:39:31 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看所有任务
+2024-08-16 19:39:43 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=[], category=view, names=[]
+2024-08-16 19:39:43 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewTopk | 131 | DEBUG - 检查前 3 个待审批任务信息
+2024-08-16 19:39:43 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewTopk | 135 | DEBUG - tasks_id=['10039094', '10037085', '10039093', '10039092', '10038560', '10039095', '10039096', '10037257']
+2024-08-16 19:39:43 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 99 | DEBUG - 检查任务信息，任务ID: 10039094
+2024-08-16 19:39:43 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 115 | INFO - 任务ID 10039094 不是待审批任务。
+2024-08-16 19:39:43 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 99 | DEBUG - 检查任务信息，任务ID: 10037085
+2024-08-16 19:39:44 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 118 | INFO - 任务信息: 开发者: guoyf2
+任务ID: 10037085
+任务类型: 47
+任务名称: F_D_FA6_dti_repo_info_uat
+2024-08-16 19:39:44 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 99 | DEBUG - 检查任务信息，任务ID: 10039093
+2024-08-16 19:39:44 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 115 | INFO - 任务ID 10039093 不是待审批任务。
+2024-08-16 19:39:44 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewTopk | 149 | INFO - 显示了待审批队列中前 3 个任务的信息。
+2024-08-16 19:40:18 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:40:18 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看任务10037085
+2024-08-16 19:40:29 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=['10037085'], category=view, names=[]
+2024-08-16 19:40:29 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 99 | DEBUG - 检查任务信息，任务ID: 10037085
+2024-08-16 19:40:30 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 118 | INFO - 任务信息: 开发者: guoyf2
+任务ID: 10037085
+任务类型: 47
+任务名称: F_D_FA6_dti_repo_info_uat
+2024-08-16 19:40:50 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:40:50 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看gongwj名下的所有任务
+2024-08-16 19:41:00 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=[], category=view, names=['gongwj']
+2024-08-16 19:41:20 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:41:20 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看zhangxs1名下的所有任务
+2024-08-16 19:41:31 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=[], category=view, names=['zhangxs1']
+2024-08-16 19:41:45 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:41:45 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看任务10039093
+2024-08-16 19:41:57 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=['10039093'], category=view, names=[]
+2024-08-16 19:41:57 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 99 | DEBUG - 检查任务信息，任务ID: 10039093
+2024-08-16 19:41:57 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 115 | INFO - 任务ID 10039093 不是待审批任务。
+2024-08-16 19:44:00 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:44:00 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看chenyd的任务
+2024-08-16 19:44:10 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=[], category=view, names=['chenyd']
+2024-08-16 19:44:38 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:44:38 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看22dskdk的任务
+2024-08-16 19:44:49 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=['22dskdk'], category=view, names=[]
+2024-08-16 19:44:49 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 99 | DEBUG - 检查任务信息，任务ID: 22dskdk
+2024-08-16 19:44:49 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | viewInfo | 120 | ERROR - 检查任务信息失败，任务ID: 22dskdk, 错误: 登陆失败，请重新授权！！！
+2024-08-16 19:50:35 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:50:35 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看chenyd的任务
+2024-08-16 19:50:45 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=[], category=view, names=['chenyd']
+2024-08-16 19:51:33 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:51:33 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看chenyd的任务
+2024-08-16 19:51:43 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=[], category=view, names=['chenyd']
+2024-08-16 19:53:46 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 19:53:46 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 292 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 查看chenyd的任务
+2024-08-16 19:53:55 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 306 | DEBUG - 解析消息结果: tasks_id=[], category=view, names=['chenyd']
+2024-08-16 20:29:09 | main_v1.py | <module> | 71 | DEBUG - 处理键 msg_17a755177f4ad1f1d99bf8042cfbb74a 对应的用户ID: 17a755177f4ad1f1d99bf8042cfbb74a
+2024-08-16 20:29:09 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 305 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 收到消息: 通过zhangxs1名下的所有任务
+2024-08-16 20:29:19 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 319 | DEBUG - 解析消息结果: tasks_id=['zhangxs1'], category=accept, names=['zhangxs1']
+2024-08-16 20:29:19 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | pendApprovalList | 213 | DEBUG - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 请求审批任务: ['zhangxs1'], 审批状态: 通过
+2024-08-16 20:29:19 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | pendApprovalList | 230 | WARNING - 任务 zhangxs1 不存在，管理员 17a755177f4ad1f1d99bf8042cfbb74a 输入错误。
+2024-08-16 20:29:19 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | printAprroval | 284 | DEBUG - 生成输出，用户任务状态: {}
+2024-08-16 20:29:19 | /home/hezp1/AI/app_weichat/interact/admin_interact.py | adminInteract | 364 | INFO - 管理员 17a755177f4ad1f1d99bf8042cfbb74a 批准通过任务: ['zhangxs1']

@@ -1,0 +1,3 @@
+FROM python:3.10.13
+
+RUN pip3 install pycryptodome crypto requests_toolbelt uvicorn requests fastapi psycopg2-binary sseclient-py httpx python-multipart sqlalchemy mysqlclient aiomysql pymysql pip install python-dotenv-i https://mirrors.aliyun.com/pypi/simple/

@@ -1,0 +1,4 @@
+2024-08-05 08:59:17 | /usr/local/lib/python3.7/site-packages/uvicorn/server.py | shutdown | 252 | INFO - Shutting down
+2024-08-05 08:59:17 | /usr/local/lib/python3.7/site-packages/uvicorn/lifespan/on.py | shutdown | 64 | INFO - Waiting for application shutdown.
+2024-08-05 08:59:17 | /usr/local/lib/python3.7/site-packages/uvicorn/lifespan/on.py | shutdown | 75 | INFO - Application shutdown complete.
+2024-08-05 08:59:17 | /usr/local/lib/python3.7/site-packages/uvicorn/server.py | serve | 85 | INFO - Finished server process [103747]

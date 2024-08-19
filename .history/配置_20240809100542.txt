@@ -1,0 +1,28 @@
+李勇俊 02-02 11:09 
+连公司网，把组织机构域切换到essence-uat，然后用测试账号登录即可，你的账号我帮你开了
+
+李勇俊 02-02 11:10 
+pc机构域在左下角-网络设置里
+
+李勇俊 02-02 11:10 
+测试账号：zhangzh4\gongwj\zhangqi5
+测试密码：pwd#312@es
+
+
+安信办公测试环境【助手小智】参数：
+AgentId：1000188
+Secret：mJKa7u98-9Gv5i_Bp4A1gIR-KrKO9vsA6ziIfdJN_bg
+CorpId：ww8da50fdd614a1fb6
+
+
+http://dispatcher.k8stest.axzq.com.cn
+
+
+category prompt:
+将指令归类到其中一个方向
+指令共有三个方向：通过、不通过和查看
+
+***注意***
+- 必须是三个方向的一个
+- 有且仅能有一个方向
+- 输出必须是“通过”或“不通过”或“查看”

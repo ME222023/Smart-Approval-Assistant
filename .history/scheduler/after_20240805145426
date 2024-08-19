@@ -1,0 +1,11 @@
+# 请求载荷
+{approvalComment: "审批通过", approvalResult: "APPROVAL_PASSED", taskId: "10038986"}
+approvalComment
+: 
+"审批通过"
+approvalResult
+: 
+"APPROVAL_PASSED"
+taskId
+: 
+"10038986"
