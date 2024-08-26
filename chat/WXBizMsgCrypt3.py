@@ -30,7 +30,7 @@ class FormatException(Exception):
     pass
 
 
-def throw_exception(message, exception_class=FormatException):
+def throw_exception(message: str, exception_class: type = FormatException):
     """my define raise exception function"""
     raise exception_class(message)
 

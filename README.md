@@ -3,11 +3,13 @@
 
 ### 部署环境
     10.5.5.73
+
 ### 部署方式
     # 生成wei_chat镜像
     docker build -t wei_chat:v1  .
     # 使用docker-compose部署
     docker-compose up -d
+
 ### 调用接口
     请查看prac.py文件
 
@@ -21,4 +23,3 @@
 
 ### send_app.py: 包含创建群聊；上传文件等功能
     ps: 在办公环境即可使用
-    

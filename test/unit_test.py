@@ -3,12 +3,12 @@ import time
 import json
 import logging
 from LLM.assistant import *
-from chat.send_app import qywx
+from chat.wechat_client import WechatClient
 from scheduler.schedule_handle import *
-from ruler_handle.rules import *
-from utils.redis_handle import RedisClient
-from interact.admin_interact import *
-from interact.cus_interact import *
+from rule_handler.rules import *
+from redis_handler.redis_handle import RedisClient
+from interaction_handler.admin_interact_handle import *
+from interaction_handler.cus_interact_handle import *
 
 # 测试getType
 # reply = getType("你好")

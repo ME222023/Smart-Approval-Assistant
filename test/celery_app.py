@@ -1,6 +1,6 @@
 import redis
 from celery import Celery
-from chat.send_app import qywx
+from chat.wechat_client import WechatClient
 from web_api import r as wait_approval
 
 broker="redis://:123@10.5.5.73:16379/1"
@@ -12,7 +12,7 @@ app = Celery('tasks', broker=broker)
 # wait_approval = redis.from_url(broker)
 # ok_approval = redis.from_url(backend)
 
-qw = qywx()
+qw = WechatClient()
 
 @app.task
 def add(x, y):

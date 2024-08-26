@@ -1,4 +1,4 @@
-from interact.test import add
+from interaction_handler.test import add
 
 result = add.delay(4, 6)
 print('Task result:', result.get(timeout=10))

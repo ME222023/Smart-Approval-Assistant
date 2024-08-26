@@ -2,6 +2,11 @@ import logging
 from logging.handlers import TimedRotatingFileHandler
 
 def server_log():
+    """
+    配置并返回一个日志记录器，记录器将日志输出到控制台和文件。
+    日志文件按天分割，并且日志信息包含时间、文件路径、函数名、行号、日志级别和消息内容。
+    @return: 返回配置好的日志记录器
+    """
     log_level= logging.DEBUG
 
     logger = logging.getLogger("server_log")

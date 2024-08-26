@@ -1,37 +1,46 @@
 import random
-
 import uvicorn
 import os
 import re
 import time
 import logging.handlers
 import redis
-from fastapi import FastAPI, Request, HTTPException
+from fastapi import (
+    FastAPI, 
+    Request, 
+    HTTPException,
+)
+
 from fastapi.middleware.cors import CORSMiddleware
-from chat.message_hander import signature, signature2, repsone_gpt, encrypt_replying_messages, extracte_info, approval_process_message
-from chat.send_app import qywx
+from chat.message_hander import (
+    signature, 
+    signature2, 
+    repsone_gpt, 
+    encrypt_replying_messages, 
+    extracte_info, 
+    approval_process_message,
+    step_gpt, 
+    generate_messages,
+)
 from chat.chat_tool import chat
-from chat.message_hander import step_gpt, generate_messages
 # from task_approval import task_info, by_task_id
 from chat.prompt_hub import *
 from LLM.assistant import get_answer
-from utils.redis_handle import RedisClient
+from redis_handler.redis_handle import RedisClient
 from utils.config import Config
 # from mysql.crud import get_task_info_by_applicant, modify_approval_result
 # from mysql.database import SessionLocal
 
 # mysql = SessionLocal()
+# config = Config()
+# config.init("config.ini","oa.csv")
 
-config = Config()
-config.init("/home/hezp1/AI/app_weichat/config.ini")
-redis_url = config.config['server']['redis_url']
+# redis_url = config.redis_url
+
+# Config("config.ini","oa.csv")
+
 
 app = FastAPI()
-qy = qywx()
-
-# redis_url = "redis://:123@10.5.5.73:16379/v1"
-# # redis_url = "redis://:123@10.5.5.73:16379/1"
-# r = redis.from_url(redis_url)
 
 # Config logs file
 if not os.path.exists("static"):
@@ -113,11 +122,10 @@ async def post_weichat(request: Request):
         return encrypt_replying_messages(from_user, "signature2解密失败，请上报给管理者", msg_id, nonce, timestamp)
     elif type_xml == "text":
         print("-------------content:", content)
-        # TODO (Task1)
         # 消息队列的add操作
         try:            
         # 使用 Redis 列表来存储消息队列
-            with RedisClient(redis_url) as server:
+            with RedisClient(Config.redis_url) as server:
                 server.rpush(f"msg_{from_user}", content)
             return  
         except redis.RedisError as e:
@@ -132,7 +140,7 @@ async def post_weichat(request: Request):
         # return encrypt_replying_messages(from_user, content, msg_id, nonce, timestamp)
     elif type_xml in ["file", "image"]:
         media_id = content
-        res = qy.download_file(media_id)
+        res = Config.wechat_client.download_file(media_id)
         logger.info(f"download file log: {res}")
         return encrypt_replying_messages(from_user, f"暂时只支持文本回复{type_xml}", msg_id, nonce, timestamp)
         # TODO: 功能后续处理
