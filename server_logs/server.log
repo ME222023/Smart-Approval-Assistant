@@ -168,3 +168,37 @@
 2024-08-26 10:55:00 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 250 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 通过名下所有任务
 2024-08-26 10:55:10 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 266 | DEBUG - 解析消息结果: tasks_id=[], category=accept, names=[]
 2024-08-26 10:55:10 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 270 | DEBUG - defaultdict(<class 'list'>, {})
+2024-08-26 11:37:49 | msg_handler.py | <module> | 64 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-26 11:37:49 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 250 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 通过名下所有任务
+2024-08-26 11:37:59 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 266 | DEBUG - 解析消息结果: tasks_id=[], category=accept, names=[]
+2024-08-26 11:37:59 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 270 | DEBUG - defaultdict(<class 'list'>, {})
+2024-08-26 11:38:54 | msg_handler.py | <module> | 64 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-26 11:38:54 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 250 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 通过名下所有任务
+2024-08-26 11:39:04 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 266 | DEBUG - 解析消息结果: tasks_id=[], category=accept, names=[]
+2024-08-26 11:39:04 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 270 | DEBUG - defaultdict(<class 'list'>, {})
+2024-08-26 11:39:04 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 85 | DEBUG - urls https://wxw-sit.axzq.com.cn/cgi-bin/message/send
+2024-08-26 11:39:04 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 89 | DEBUG - send to 1730846d950e0a5709ac2ea44138df09 ok
+2024-08-26 11:39:04 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 90 | DEBUG - {"errcode":0,"errmsg":"ok","jobid":"4_1724643544_953789"}
+2024-08-26 11:39:18 | msg_handler.py | <module> | 64 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-26 11:39:18 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 250 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 查看信息
+2024-08-26 11:39:26 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 359 | ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2024-08-26 11:39:26 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 85 | DEBUG - urls https://wxw-sit.axzq.com.cn/cgi-bin/message/send
+2024-08-26 11:39:26 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 89 | DEBUG - send to 1730846d950e0a5709ac2ea44138df09 ok
+2024-08-26 11:39:26 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 90 | DEBUG - {"errcode":0,"errmsg":"ok","jobid":"4_1724643566_353598"}
+2024-08-26 11:39:42 | msg_handler.py | <module> | 64 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-26 11:39:42 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 250 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 查看所有存在的任务
+2024-08-26 11:39:52 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 266 | DEBUG - 解析消息结果: tasks_id=[], category=view, names=[]
+2024-08-26 11:39:52 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 270 | DEBUG - defaultdict(<class 'list'>, {})
+2024-08-26 11:39:52 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | view_topk_info | 98 | DEBUG - 检查前 3 个待审批任务信息
+2024-08-26 11:39:52 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | view_topk_info | 102 | DEBUG - tasks_id=[]
+2024-08-26 11:39:52 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | view_topk_info | 109 | INFO - 目前没有待审批的任务。
+2024-08-26 11:39:52 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 85 | DEBUG - urls https://wxw-sit.axzq.com.cn/cgi-bin/message/send
+2024-08-26 11:39:52 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 89 | DEBUG - send to 1730846d950e0a5709ac2ea44138df09 ok
+2024-08-26 11:39:52 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 90 | DEBUG - {"errcode":0,"errmsg":"ok","jobid":"4_1724643592_283327"}
+2024-08-26 11:40:00 | msg_handler.py | <module> | 64 | DEBUG - 处理键 msg_1730846d950e0a5709ac2ea44138df09 对应的用户ID: 1730846d950e0a5709ac2ea44138df09
+2024-08-26 11:40:00 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 250 | DEBUG - 管理员 1730846d950e0a5709ac2ea44138df09 收到消息: 检查所有任务
+2024-08-26 11:40:11 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 266 | DEBUG - 解析消息结果: tasks_id=[], category=check, names=[]
+2024-08-26 11:40:11 | /home/hezp1/AI/app_weichat/interaction_handler/admin_interact_handle.py | admin_interact | 270 | DEBUG - defaultdict(<class 'list'>, {})
+2024-08-26 11:40:11 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 85 | DEBUG - urls https://wxw-sit.axzq.com.cn/cgi-bin/message/send
+2024-08-26 11:40:11 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 89 | DEBUG - send to 1730846d950e0a5709ac2ea44138df09 ok
+2024-08-26 11:40:11 | /home/hezp1/AI/app_weichat/chat/wechat_client.py | send_text | 90 | DEBUG - {"errcode":0,"errmsg":"ok","jobid":"4_1724643611_114883"}

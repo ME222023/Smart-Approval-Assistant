@@ -286,24 +286,32 @@ def admin_interact(admin_id: str, msg: str):
             # 通过待审批任务
             elif category == "accept":
                 # 提取出来的id为空：审批所有的
+                cus_status = {}
                 if not tasks_id:
                     for name in names:
                         cus_status = update_task_status_dict(dict,name,"通过",admin_id)
                 else:
                     cus_status = approve_pending_tasks(tasks_id, admin_id, True)
-                logger.debug(cus_status)
-                print_task_status(cus_status)
-                logger.info(f"管理员 {admin_id} 批准通过任务: {tasks_id}")
+                if cus_status:
+                    logger.debug(cus_status)
+                    print_task_status(cus_status)
+                    logger.info(f"管理员 {admin_id} 批准通过任务: {tasks_id}")
+                else:
+                    Config.wechat_client.send_text("请输入正确的ID或用户名。", [admin_id])
             # 不通过待审批任务
             elif category == "reject":
+                cus_status = {}
                 if not tasks_id:
                     for name in names:
                         cus_status = update_task_status_dict(dict,name,"不通过",admin_id)
                 else:
                     cus_status = approve_pending_tasks(tasks_id, admin_id, False)
-                logger.debug(cus_status)
-                print_task_status(cus_status)
-                logger.info(f"管理员 {admin_id} 拒绝任务: {tasks_id}")
+                if cus_status:
+                    logger.debug(cus_status)
+                    print_task_status(cus_status)
+                    logger.info(f"管理员 {admin_id} 拒绝任务: {tasks_id}")
+                else:
+                    Config.wechat_client.send_text("请输入正确的ID或用户名。", [admin_id])
             elif category == "check":
                 if not tasks_id:
                     Config.wechat_client.send_text("请输入需要检查的任务ID。", [admin_id])
