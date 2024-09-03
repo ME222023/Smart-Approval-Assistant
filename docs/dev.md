@@ -21,14 +21,51 @@
 后面直接加上注释
 描述package的作用和文件的基本功能
 ```shell
-├── utils
-│   ├── config.py # jidsofdiodoifahoh
-│   ├── exception_handle.py# hdfhsidfhilfhdf
+├── redis_handler 
+│   ├── redis_handle.py # RedisClient类
+│   └── redis_task_utils.py # redis消息队列相关工具函数集合
+├── rule_handler
 │   ├── __init__.py
-│   ├── log_handle.py
+│   ├── rules.py # 规则检测集合
+│   └── schema.py # 调度信息参数列表
+├── scheduler
+│   ├── __init__.py
+│   └── schedule_handle.py # 处理调度信息工具函数集合
+├── server_logs # wechat_server日志信息
+│   ├── server.log
+├── utils
+│   ├── __init__.py
+│   ├── config.py # Config类
+│   ├── exception_handle.py # 自定义异常类
+│   ├── log_handle.py # server_log函数
+├── chat
+│   ├── chat_tool.py 
+│   ├── ierror.py
+│   ├── message_hander.py
+│   ├── wechat_client.py
+│   └── WXBizMsgCrypt3.py
+├── docs
+│   ├── dev.md # 开发者文档
+│   ├── display.md # 功能展示
+│   └── images # 原始图片
+├── interaction_handler
+│   ├── __init__.py 
+│   ├── admin_interact_handle.py # 管理员和小智交互逻辑集合
+│   ├── cus_interact_handle.py # 用户和小智交互逻辑集合
+├── LLM
+│   ├── __init__.py
+│   ├── assistant.py # 大模型流程的api调用
+├── logs
+│   ├── weichat.log # web_api.py的日志信息
+├── msg_handler.py # 流程总控程序
+├── config.ini # 配置文件
+├── web_api.py # 服务器程序
+├── requirements.txt # 依赖说明文档
+├── README.md # 项目介绍文档
 ```
 
 # 函数调用图
+![](images/schedule_graph.png)
 利用drawio绘制
 函数模块之间的调用关系（参考动态生成的模块）
 但是线路只需要绘制一次且不需要设计公共库
@@ -47,3 +84,10 @@
 搜索后+相关的依赖
 
 再问一下是否需要绘制用户和管理员与小智交互的流程图
+
+# 测试问题
+用户端问题
+1. input:请帮我审批zhangxs1名下任务
+   output:登录失败，已通知管理员进行处理。
+2. input:请帮zhangxs1名下任务
+   output:请帮zhangxs1名下任务

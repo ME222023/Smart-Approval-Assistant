@@ -18,11 +18,20 @@
 # import sys
 # sys.path.append("/home/hezp1/AI/app_weichat")
 
-msg = [None, None, '请求任务审批者需是任务开发者或任务负责人。']
-if all(item is None for item in msg):
-    print("pass the check")
-else:
-    print("no!!")
+# msg = [None, None, '请求任务审批者需是任务开发者或任务负责人。']
+# if all(item is None for item in msg):
+#     print("pass the check")
+# else:
+#     print("no!!")
+
+from interaction_handler.cus_interact_handle import check_task_id
+
+info = check_task_id("zhangxs1","16bd52abceae57867cfaa7e4bb9adab4")
+get_tid
+print(info)
+
+
+
 
 # from utils.config import Config
 # from test.test2 import shwoa

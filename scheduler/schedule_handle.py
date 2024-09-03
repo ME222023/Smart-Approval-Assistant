@@ -5,7 +5,7 @@ import requests
 from typing import List
 
  
-from utils.exception_handle import LoginException
+from utils.exception_handle import LoginException, CheckException
 from rule_handler.schema import ScheduleInfo
 from utils.config import Config
 
@@ -26,7 +26,7 @@ def get_task_list(task_id: str = None, user: str = None):
     根据给定的任务 ID 和用户名，获取待审批的任务列表。
     @param task_id: 任务 ID，用于筛选任务。
     @param user: 用户名，用于筛选申请人。
-    @return: 返回包含任务记录的列表，如果操作失败则抛出 LoginException 异常。
+    @return: 返回包含任务记录的列表，如果操作失败则抛出 LoginException和CheckException 异常。
     """
     url = f"{Config.base_url}/api/v1/task-approval/approval/waiting"
 
@@ -42,16 +42,20 @@ def get_task_list(task_id: str = None, user: str = None):
         "taskType": "",
         "topicName": ""
     }
-
+    logger.debug(f"payload = {payload}")
     response = requests.post(url, json=payload, headers=HEADERS, params=query_str)
-
+    logger.debug(f"response = {response}")
     task_statu = response.json().get("message")
+    logger.debug(f"response.json() = {response.json()}")
+    logger.debug(f"task_statu = {task_statu}")
 
     if task_statu=="操作成功！":
         tasks = response.json().get("data").get("records")
         return tasks
+    elif task_statu == "操作异常！":
+        raise CheckException("查找失败，请用户输入正确的ID。")
     else:
-        raise LoginException("登陆失败，请重新授权。")
+        raise LoginException("登陆失败，请管理员重新授权。")
 
 def get_task_info(t_id: str) -> dict:
     """

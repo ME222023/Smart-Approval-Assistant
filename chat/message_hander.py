@@ -4,14 +4,12 @@ from xml.dom.minidom import parseString
 from chat.chat_tool import chat
 from chat.WXBizMsgCrypt3 import WXBizMsgCrypt  # 库地址 https://github.com/sbzhu/weworkapi_python
 from chat.prompt_hub import *
+from utils.config import Config
 
-sToken = "vCTCmUX8BmCTuKFlAlMT"
-sEncodingAESKey = "bJ84sa2wXyHrkHM6Vlw6PpO75jemC7FLphM4W89bBaU"
-sReceiveId = "ww8da50fdd614a1fb6"
-AgentId = 1000188
-Secret = 'mJKa7u98-9Gv5i_Bp4A1gIR-KrKO9vsA6ziIfdJN_bg'
+# AgentId = 1000188
+# Secret = 'mJKa7u98-9Gv5i_Bp4A1gIR-KrKO9vsA6ziIfdJN_bg'
 # 对应接受消息回调模式中的token，EncodingAESKey 和 企业信息中的企业id
-org_api = WXBizMsgCrypt(sToken, sEncodingAESKey, sReceiveId)
+org_api = WXBizMsgCrypt(Config.sToken, Config.sEncodingAESKey, Config.sReceiveId)
 
 # 测试
 # sToken = "hJqcu3uJ9Tn2gXPmxx2w9kkCkCE2EPYo"
@@ -123,7 +121,7 @@ def encrypt_replying_messages(from_user, content, msgid, request_nonce, request_
     <MsgType><![CDATA[text]]></MsgType>
     <Content><![CDATA[{content}]]></Content>
     <MsgId>{msgid}</MsgId>
-    <AgentID>1000188</AgentID>
+    <Config.AgentID>1000188</Config.AgentID>
     </xml>"""
     print(f"response xml: {rely_info}")
     ret, sEncryptMsg = org_api.EncryptMsg(rely_info, request_nonce, request_timestamp)

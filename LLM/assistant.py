@@ -1,7 +1,7 @@
 import requests
 import json
 from typing import List
-
+from utils.config import Config
 
 def get_answer(query: str, conversation_id: str = None) -> str:
     """
@@ -12,7 +12,7 @@ def get_answer(query: str, conversation_id: str = None) -> str:
     @return: LLM回复字符串
     """
     api_key = "app-vdxlirpInaNyVZKhKSk99k3U"
-    url = 'http://10.5.5.73:10012/v1/chat-messages'
+    url = Config.url
     headers = {
         'Authorization': f"Bearer {api_key}",
         'Content-Type': 'application/json'
@@ -24,13 +24,6 @@ def get_answer(query: str, conversation_id: str = None) -> str:
         # "response_mode": "streaming",
         "conversation_id": conversation_id,
         "user": "abc-123",
-        "files": [
-            {
-                "type": "image",
-                "transfer_method": "remote_url",
-                "url": "https://cloud.dify.ai/logo/logo-site.png"
-            }
-        ]
     }
 
     response = requests.post(url, headers=headers, data=json.dumps(data))
@@ -49,7 +42,7 @@ def get_tasks_id_category(query: str, conversation_id: str = None) -> str:
     @return: LLM回复的字符串
     """
     api_key = "app-gjvp5FeOkgvkr0WqPzaOUyTW"
-    url = 'http://10.5.5.73:10012/v1/chat-messages'
+    url = Config.url
     
     headers = {
         'Authorization': f"Bearer {api_key}",
@@ -77,7 +70,7 @@ def get_names(query: str, conversation_id: str = None) -> List[str]:
     @return: 返回names的字符串列表
     """
     api_key = "app-34mv9GOAdFzrOZLXVJqGV6R0"
-    url = 'http://10.5.5.73:10012/v1/chat-messages'
+    url = Config.url
     
     headers = {
         'Authorization': f"Bearer {api_key}",

@@ -12,3 +12,18 @@ class LoginException(Exception):
         """
         self.msg = msg
         super().__init__(self.msg)
+
+class CheckException(Exception):
+    """
+    CheckException类用于表示查找中发生的异常。
+    该异常类继承自内置的Exception类，用于在查找失败时抛出自定义异常。
+    可以通过传递一条消息来描述具体的异常原因。
+    """
+
+    def __init__(self, msg: str):
+        """
+        初始化CheckException实例，并设置异常消息。
+        @param msg: s异常消息，描述登录失败的原因
+        """
+        self.msg = msg
+        super().__init__(self.msg)

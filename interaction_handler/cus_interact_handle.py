@@ -8,7 +8,7 @@ from LLM.assistant import get_answer
 from scheduler.schedule_handle import get_latest_task_info
 from rule_handler.rules import check_rules
 from redis_handler.redis_handle import RedisClient
-from utils.exception_handle import LoginException
+from utils.exception_handle import LoginException, CheckException
 from utils.config import Config
 
 logger = logging.getLogger("server_log")
@@ -155,6 +155,9 @@ def cus_interact(k: str, cus_id: str):
         logger.error(f"LoginException: {e}")
         Config.wechat_client.send_text("登录失败，请重新登录授权。", [Config.admin_ids])
         Config.wechat_client.send_text("登录失败，已通知管理员进行处理。", [cus_id])
+    except CheckException as e:
+        logger.error(f"CheckException: {e}")
+        Config.wechat_client.send_text("任务查找失败，请输入正确的ID。", [cus_id])
     except Exception as e:
         logger.error(f"Unexpected error: {e}")
         Config.wechat_client.send_text("系统出现异常，已通知管理员进行处理。", [cus_id])

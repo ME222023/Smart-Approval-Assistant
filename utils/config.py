@@ -22,14 +22,24 @@ class Config:
     - oa_map: DataFrame, 包含员工信息的DataFrame
     - wechat_client: WechatClient的实例化对象
     """
-
+    # server
     redis_url = None
     token = None
     admin_names = None
     admin_ids = None
     base_url = None
+    # oa用户
     oa_map: DataFrame = None
+    # client
     wechat_client = WechatClient()
+    # LLM
+    url = None
+    # chat
+    sToken = None
+    sEncodingAESKey = None
+    sReceiveId = None
+    AgentId = None
+    Secret = None
 
     def __init__(self, path: str, csv_path: str):
         """
@@ -52,17 +62,26 @@ class Config:
         config = configparser.ConfigParser()
         config.read(path)
         
-        # 假设配置文件中有一个名为 'server' 的部分
+        # 配置文件'server' 的部分
         cls.redis_url = config.get('server', 'redis_url')
         cls.token = config.get('server', 'token')
         cls.admin_names = config.get('server', 'admin_names')
         cls.base_url = config.get('server', 'base_url')
-
+        # 配置文件llm部分
+        cls.url = config.get('llm', 'url')
+        # 配置文件wechat部分
+        cls.sToken = config.get('wechat', 'sToken')
+        cls.sEncodingAESKey = config.get('wechat', 'sEncodingAESKey')
+        cls.sReceiveId = config.get('wechat', 'sReceiveId')
+        cls.AgentId = config.get('wechat', 'AgentId')
+        cls.Secret = config.get('wechat', 'Secret')
         # 读取 CSV 文件并赋值给 oa_map
         cls.oa_map = pd.read_csv(csv_path)
 
         # adminName2Id()将admin_names转成admin_ids
         cls.admin_ids = cls.unames_to_uids()
+
+        
     
 
     @classmethod
