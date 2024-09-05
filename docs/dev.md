@@ -1,10 +1,16 @@
 # 开发规范
 ## 命名规范：
-### 1. 变量名、函数名和方法名：小写字母和下划线（snake_case）
-### 2. 类名：大驼峰（PascalCase）
+1. 变量名、函数名和方法名：小写字母和下划线（snake_case）
+2. 类名：大驼峰（PascalCase）
 
 # 文件结构说明（tree指令）
 ```shell
+├── docs
+│   ├── dev.md # 开发者文档
+│   ├── display.md # 功能展示
+│   └── images # 原始图片
+├── README.md # 项目介绍文档
+
 ├── redis_handler 
 │   ├── redis_handle.py # RedisClient类
 │   └── redis_task_utils.py # redis消息队列相关工具函数集合
@@ -49,15 +55,14 @@
 ```
 
 # 函数调用图
-## 调用pycallgraph绘制动态函数调用关系图如下：
-![](images/schedule_graph.png)
+调用pycallgraph绘制动态函数调用关系图如下：
+![函数调用图](images/schedule_graph.png)
 
-# 系统架构图
-利用drawio绘制
-将之前的思路抽象成相应的模块再进行绘制
-参考 https://blog.csdn.net/kion0929/article/details/102667123
+# 技术架构图
+![技术架构图](images/tech_archi_graph.png)
 
 # 部署
-环境准备，依赖安装说明，怎么运行等等
-大致的流程（主要分为两个模块即用户和管理员的相关交互）
-每个模块用
+## 部署步骤：
+1. 安装requirements.txt的全部依赖
+2. 补充config.ini文件的客户端、服务器端和大模型接口调用信息
+3. 运行web_api.py和msg_handler.py两个文件

@@ -266,7 +266,7 @@ def admin_interact(admin_id: str, msg: str):
             logger.debug(f"解析消息结果: tasks_id={tasks_id}, category={category}, names={names}")
             # 取到topk个任务的信息
             # 查看待审批任务
-            dict = get_cusid_taskid_dict()
+            dict = get_cusid_taskid_dict()                                                                                            
             logger.debug(dict)
             if category == "view":
                 message = ""
