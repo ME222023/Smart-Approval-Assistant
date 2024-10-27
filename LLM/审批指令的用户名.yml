@@ -1,0 +1,220 @@
+app:
+  description: ''
+  icon: "\U0001F916"
+  icon_background: '#FFEAD5'
+  mode: advanced-chat
+  name: "\u5BA1\u6279\u6307\u4EE4\u7684\u7528\u6237\u540D"
+kind: app
+version: 0.1.0
+workflow:
+  features:
+    file_upload:
+      image:
+        enabled: false
+        number_limits: 3
+        transfer_methods:
+        - local_file
+        - remote_url
+    opening_statement: ''
+    retriever_resource:
+      enabled: false
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+      language: ''
+      voice: ''
+  graph:
+    edges:
+    - data:
+        isInIteration: false
+        sourceType: if-else
+        targetType: answer
+      id: 1723166890620-true-answer-target
+      selected: false
+      source: '1723166890620'
+      sourceHandle: 'true'
+      target: answer
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: if-else
+        targetType: answer
+      id: 1723166890620-false-1723107352481-target
+      selected: false
+      source: '1723166890620'
+      sourceHandle: 'false'
+      target: '1723107352481'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: parameter-extractor
+        targetType: if-else
+      id: 1723600259101-source-1723166890620-target
+      source: '1723600259101'
+      sourceHandle: source
+      target: '1723166890620'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: start
+        targetType: parameter-extractor
+      id: 1721718904747-source-1723600259101-target
+      source: '1721718904747'
+      sourceHandle: source
+      target: '1723600259101'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    nodes:
+    - data:
+        desc: ''
+        selected: false
+        title: "\u5F00\u59CB"
+        type: start
+        variables: []
+      height: 54
+      id: '1721718904747'
+      position:
+        x: 78
+        y: 235
+      positionAbsolute:
+        x: 78
+        y: 235
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        answer: '{"names" : {{#1723600259101.names#}}}'
+        desc: ''
+        selected: true
+        title: "\u76F4\u63A5\u56DE\u590D"
+        type: answer
+        variables: []
+      height: 123
+      id: answer
+      position:
+        x: 1369.9210323322202
+        y: 147.6105429637778
+      positionAbsolute:
+        x: 1369.9210323322202
+        y: 147.6105429637778
+      selected: true
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        answer: '{"names" : []}'
+        desc: ''
+        selected: false
+        title: "\u76F4\u63A5\u56DE\u590D 3"
+        type: answer
+        variables: []
+      height: 104
+      id: '1723107352481'
+      position:
+        x: 1369.9210323322202
+        y: 397.12823038233864
+      positionAbsolute:
+        x: 1369.9210323322202
+        y: 397.12823038233864
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: not empty
+            id: 9ceec5e7-e240-493f-8e02-d5b369e9f976
+            value: ''
+            varType: array[string]
+            variable_selector:
+            - '1723600259101'
+            - names
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: "\u6761\u4EF6\u5206\u652F"
+        type: if-else
+      height: 126
+      id: '1723166890620'
+      position:
+        x: 953.2773061474052
+        y: 235
+      positionAbsolute:
+        x: 953.2773061474052
+        y: 235
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        instruction: "You are an experimental cutting-edge super capable autonomous\
+          \ agent specialized in instruction classification.\n\n--- Task Description\
+          \ ---\nPlease extract the name from the scheduling information provided\
+          \ if it exists. \n\n--- Examples ---\nInput: \u68C0\u67E5\u4EFB\u52A110039094\
+          \ 10039095 10039096\nOutput: \n  names: []\n\nInput: \u5BA1\u6279\u9648\u7389\
+          \u5E1D\u540D\u4E0B\u7684\u6240\u6709\u4EFB\u52A1\nOutput: \n  names: []\n\
+          \n*** Important Notice ***\n- think and make decisions step by step.\n-\
+          \ do not add extra information as output.\n- a name can only consist of\
+          \ English letters and Arabic numerals.\n- distinguish between Chinese characters\
+          \ and English letters."
+        model:
+          completion_params:
+            temperature: 0
+          mode: chat
+          name: qwen
+          provider: xinference
+        parameters:
+        - description: 'A list containing name, composed solely of English letters
+            and Arabic numerals.
+
+            The type of each name is a string.'
+          name: names
+          required: false
+          type: array[string]
+        query:
+        - sys
+        - query
+        reasoning_mode: function_call
+        selected: false
+        title: "\u63D0\u53D6names"
+        type: parameter-extractor
+        variables: []
+      height: 98
+      id: '1723600259101'
+      position:
+        x: 471.09280038108886
+        y: 235
+      positionAbsolute:
+        x: 471.09280038108886
+        y: 235
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    viewport:
+      x: -424.9210323322202
+      y: 82.38945703622221
+      zoom: 1
